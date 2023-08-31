@@ -1,6 +1,6 @@
 version: 1.2
 service:
-  subclass: DOCKER-COMPOSE
+  subclass: DOCKER_COMPOSE
   name: A cool service
   author: Andrew Duncan
   description: |
