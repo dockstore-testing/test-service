@@ -3,6 +3,7 @@ service:
   subclass: DOCKER_COMPOSE
   name: A cool service
   author: Andrew Duncan
+  publish: true
   description: |
     This is the coolest service,
     it is very cool.
